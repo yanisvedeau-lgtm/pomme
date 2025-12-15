@@ -1,0 +1,184 @@
+  This is an unofficial translation of the GNU Lesser General Public License
+into Basque. It was not published by the Free Software Foundation, and does not
+legally state the distribution terms for software that uses the GNU LGPLâ€”only
+the original English text of the GNU LGPL does that. However, we hope that this
+translation will help Basque speakers understand the GNU LGPL better.
+
+  You may publish this translation, modified or unmodified, only under the
+terms at https://www.gnu.org/licenses/translations.html.
+
+-------------------------------------------------------------------------------
+
+  Hau GNU Lizentzia Publiko Orokor Murriztuaren (GNU Lesser General Public
+License) euskarazko itzulpen ez ofizial bat da. Itzulpen hau ez du Software
+Librearen Fundazioak (Free Software Foundation) argitaratu, eta ez ditu legalki
+zehazten GNU LGPL erabiltzen duen softwarea banatzeko baldintzak. Hori GNU
+LGPLren ingelesezko jatorrizko testuak baino ez du egiten. Hala ere, itzulpen
+hau euskaldunei GNU LGPL hobeto ulertzen laguntzeko asmoarekin egin dugu.
+
+  Itzulpen hau argitara dezakezu, aldatuta edo aldatu gabe, baldintza hauek
+betetzen badituzu soilik: https://www.gnu.org/licenses/translations.html.
+
+-------------------------------------------------------------------------------
+
+
+                     GNU LIZENTZIA PUBLIKO OROKOR MURRIZTUA
+                       3. bertsioa, 2007ko ekainaren 29a
+
+ Copyright Â© 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Edonork egin eta bana ditzake lizentzia-dokumentu honen hitzez hitzeko kopiak,
+ baina debekatuta dago dokumentuan aldaketak egitea.
+
+
+   GNU Lizentzia Publiko Orokor Murriztuaren bertsio honek barne hartzen ditu
+GNU Lizentzia Publiko Orokorraren 3. bertsioko baldintzak, eta osatu egiten
+ditu aurrerago zerrendatzen diren baimen gehigarrien bidez.
+
+  0. Definizio osagarriak.
+
+  Dokumentu honetan, Â«Lizentzia hauÂ» esaten denean, GNU Lizentzia Publiko
+Orokor Murriztuaren 3. bertsioa (GNU-LGPL v3) esan nahi da, eta Â«GNU GPLÂ»
+esaten denean, GNU Lizentzia Publiko Orokorraren 3. bertsioaz ari gara.
+
+  Â«LiburutegiaÂ» da Lizentzia honen menpean dagoen babestutako lan bat,
+Aplikazioa edo Lan Konbinatua ez dena, behean ematen diren definizioen arabera.
+
+  Â«AplikazioaÂ» da edozein lan Liburutegiak eskaintzen dituen interfazeetako bat
+erabiltzen duena, baina, gainerakoan, Liburutegian oinarrituta ez dagoena.
+Liburutegiak definitutako klase baten azpiklase bat definitzea, Liburutegiak
+eskaintzen dituen interfazeetako bat erabiltzeko modutzat joko da.
+
+  Â«Lan KonbinatuaÂ» da Aplikazio bat Liburutegiarekin konbinatuz sortzen den
+lana. Lan Konbinatua egiteko erabili den Liburutegiaren bertsio zehatzari
+Â«Bertsio LotuÂ» ere deitzen zaio.
+
+  Lan Konbinatu baten Â«Dagokion Gutxieneko IturburuaÂ» da Lan Konbinatuari
+Dagokion Iturburua, kanpoan utzita Lan Konbinatuaren zati bakoitzaren iturburu-
+kodea, baldin eta zatiok, banan-banan aztertuta, Aplikazioan oinarritzen
+badira, eta ez Bertsio Lotuan.
+
+  Lan Konbinatu baten Â«Dagokion Aplikazio KodeaÂ» da Aplikazioaren objektu-kodea
+eta/edo iturburu-kodea, barne hartuz, Aplikaziotik abiatuta Lan Konbinatua
+erreproduzitzeko behar diren datuak eta utilitate-programak, eta kanpoan utziz,
+Lan Konbinatuaren Sistema Liburutegiak.
+
+  1. GNU GPLren 3. atalaren salbuespena.
+
+  Babestutako lanak helaraz ditzakezu, Lizentzia honetako 3. eta 4. atalen
+arabera, GNU GPLren 3. atala kontuan hartu gabe.
+
+  2. Aldatutako bertsioak helaraztea.
+
+  Liburutegiaren kopia bat aldatzen baduzu, eta, zure aldaketetan, erraztasunen
+batek loturarik baldin badu, erraztasun hori erabiltzen duen Aplikazioak eman
+beharreko funtzio batekin edota datuekin (erraztasunari deitzean argumentuak
+pasatze hutsetik haratago), aldatutako bertsioaren kopia bat helaraz dezakezu,
+modu hauetan:
+
+    a) Lizentzia honekin, baldin eta borondate oneko ahalegin bat egiten
+    baduzu, Aplikazioak funtziorik edo daturik ematen ez duenean ere,
+    erraztasunak funtzionatzen jarraitzen duela bermatzeko, eta ongi egiten
+    dituela gainerako zati esanguratsuak, edo
+
+    b) GNU GPL lizentziarekin, Lizentzia honen baimen osagarriak kopiari
+    aplikatu gabe.
+
+  3. Liburutegiko goiburu-fitxategietako materiala duen objektu-kodea.
+
+  Aplikazio baten objektu-kodearen formak bere barnean eduki dezake
+Liburutegiaren zati den goiburu-fitxategi bateko materiala. Objektu-kode hori
+zuk hautatutako baldintzen arabera helaraz dezakezu, baina kontuan izanda ezen,
+gehitutako materiala ez bada mugatzen zenbaki-parametroetara, datu-egituren
+antolaketara eta atzitzaileetara, edo makro txikietara, txertatutako
+funtzioetara eta txantiloietara (hamar lerro edo gutxiagoko luzera), honako bi
+baldintza hauek bete beharko dituzula:
+
+    a) Ohar nabarmen bat erantsi objektu-kodearen kopia bakoitzari, garbi
+    adierazteko Liburutegia erabiltzen duela eta Lizentzia honek babesten
+    dituela bai Liburutegia, bai haren erabilera.
+
+    b) Objektu-kodearekin batera eman GNU GPLren kopia bat eta lizentzia-
+    dokumentu hau.
+
+  4. Lan konbinatuak.
+
+  Lan Konbinatu bat helaraz dezakezu, zuk hautatutako baldintzen arabera,
+baldin eta baldintzok, beren osotasunean, ez badute benetan mugatzen Lan
+Konbinatuan sartutako Liburutegi-zatietan aldaketak egitea eta aldaketa horiek
+arazteko atzeranzko ingeniaritza, betiere baldintza hauek betetzen dituzu:
+
+    a) Ohar nabarmen bat erantsi Lan Konbinatuaren kopia bakoitzari, garbi
+    adierazteko Liburutegia erabiltzen duela eta Lizentzia honek babesten
+    dituela bai Liburutegia, bai haren erabilera.
+
+    b) Lan Konbinatuarekin batera eman GNU GPLren kopia bat eta lizentzia-
+    dokumentu hau.
+
+    c) Lan Konbinatuak egile-eskubideen oharrak erakusten baditu exekutatzen
+    ari den bitartean, Liburutegiari buruzko oharra gehitu ohar horien artean,
+    baita erreferentzia bat ere, erabiltzaileak GNU GPLren eta lizentzia-
+    dokumentu honen kopietara bideratzeko.
+
+    d) Hauetako bat egin:
+
+        0) Dagokion Gutxieneko Iturburua helarazi Lizentzia honen baldintzen
+        arabera, baita Dagokion Aplikazio Kodea ere, forma egoki batean, eta
+        behar diren baimen-baldintza guztiekin, erabiltzaileak Aplikazioa
+        birkonbinatu edo berriro lotu ahal izan dezan Bertsio Lotuaren bertsio
+        aldatu batekin, Lan Konbinatu aldatu bat sortzeko, GNU GPLren 6.
+        atalean zehazten den bezala Dagokion Iturburua helarazteko.
+
+        1) Liburutegiarekin lotzeko, erabili liburutegi partekatuko mekanismo
+        egoki bat. Mekanismo egoki bat da (a) exekuzio-denboran
+        erabiltzailearen ordenagailuan lehendik dagoen Liburutegiaren kopia bat
+        erabiltzen duena, eta (b) Liburutegiaren bertsio aldatu batekin
+        â€”Bertsio Lotuarekin interfaze bateragarrikoa badaâ€” ondo funtzionatuko
+        duena.
+
+    e) Instalazio Informazioa eman, baina soil-soilik informazio hori GNU
+    GPLren 6. atalak ezarritakoaren arabera eman beharko bazenu, eta soil-
+    soilik informazio hori beharrezkoa den neurrian Lan Konbinatuaren bertsio
+    aldatua, Aplikazioa Bertsio Lotuaren bertsio aldatu batekin birkonbinatuz
+    edo berriro lotuz sortua, instalatzeko eta exekutatzeko. (4d0 aukera
+    erabiltzen baduzu, Instalazio Informazioa Dagokion Gutxieneko
+    Iturburuarekin eta Dagokion Aplikazio Kodearekin batera eman behar da. 4d1
+    aukera erabiltzen baduzu, Instalazio Informazioa GNU GPLren 6. atalean
+    Dagokion Iturburua helarazteko zehazten den bezala eman behar duzu).
+
+  5. Liburutegi konbinatuak.
+
+  Liburutegi-erraztasunak â€”liburutegian oinarritutako lanak direneanâ€” aparte
+jar ditzakezu liburutegi bakar batean, modu paraleloan, Aplikazioak ez diren
+eta Lizentzia honek babesten ez dituen beste liburutegi-erraztasun batzuekin
+batera, eta liburutegi konbinatu hori helarazi, zuk hautatutako baldintzen
+arabera, betiere honako bi baldintza hauek betetzen badituzu:
+
+    a) Liburutegi konbinatuarekin batera, Liburutegian oinarritutako lan horren
+    beraren kopia bat eman, beste liburutegi-erraztasun batzuekin konbinatu
+    gabe eta Lizentzia honen baldintzen arabera helarazita.
+
+    b) Ohar nabarmen bat erantsi liburutegi konbinatuari, horren zati bat
+    Liburutegian oinarritutako lan bat dela adierazteko eta lan berberaren
+    bertsio konbinatu gabea non aurkitu azaltzeko.
+
+  6. GNU Lizentzia Publiko Orokor Murriztuaren bertsio berrikusia.
+
+  Software Librearen Fundazioak Lizentzia Publiko Orokor Murriztuaren bertsio
+berrikusiak edo berriak argitara ditzake noizean behin. Bertsio berri horiek
+egungoaren antzekoak izango dira izaerari dagokionez, baina arazo edo kezka
+berriei aurre egin beharko dietenez, xehetasunen bat alda daiteke.
+
+  Bertsio bakoitzari bere bertsio-zenbaki bereizgarria ematen zaio.
+Liburutegiak, jaso bezala, zehazten badu GNU Lizentzia Publiko Orokor
+Murriztuaren bertsio-zenbaki bat Â«edo bertsio berriago batÂ» aplikatzen zaiola,
+aukera duzu bertsio-zenbaki horren zein Software Librearen Fundazioak geroago
+argitaratutako beste bertsioren baten baldintzak betetzeko. Liburutegiak, jaso
+bezala, ez badu zehazten GNU Lizentzia Publiko Orokor Murriztuaren bertsio-
+zenbakirik, Software Librearen Fundazioak argitaratutako GNU Lizentzia Publiko
+Orokor Murriztuaren bertsioetako edozein aukera dezakezu.
+
+  Liburutegiak, jaso bezala, zehazten badu ahaldun batek erabaki dezakeela GNU
+Lizentzia Publiko Orokor Murriztuaren etorkizuneko bertsiorik aplikatu ahal
+izango den, ahaldun horrek publikoki deklaratzen badu bertsio jakin bat
+onartzen duela, betiko baimena emango dizu, Liburutegirako bertsio hori
+aukeratzeko.
